@@ -147,4 +147,37 @@ The change in pp means percentage points.
 >_For Churned Users the delta is interpreted inversely: a negative delta indicates an improvement (fewer users churned)._  
 _For Refund Rate%  the delta is interpreted inversely: a negative delta indicates an improvement (fewer refunds)._
 >
-        
+
+## Key Insights
+
+The insights below represent examples of patterns observed in the dashboard.  
+Since the dashboard is interactive, metrics can be analyzed across different time periods (last 7 days, month, quarter, year) and user segments. 
+
+### Short-term Trends (Recent Performance)  
+**Decline in New User Acquisition**  
+New user registrations decreased by 22% week-over-week, indicating a slowdown in acquisition. This may be related to seasonal effects at the end of December or reduced marketing activity.
+
+**Increase in User Churn**  
+Churned users increased by 57% WoW, which is the most concerning short-term signal. Combined with lower acquisition this creates pressure on the total user base.
+
+**Stable Active User Base**  
+Despite acquisition and churn fluctuations, the number of active users remained almost unchanged (-0.99%), suggesting that the product maintains a stable core audience.
+
+**Continued Growth of Paying Users**  
+The number of paying users increased by 4.8% WoW, indicating that existing users continue converting to paid plans even during slower acquisition periods.
+
+### Long-term Trends (Product & Revenue Performance)
+**Early Retention Drop**  
+Cohort analysis shows that the largest retention drop occurs after the first month, highlighting the importance of early user activation and onboarding.
+
+**Formation of a Loyal User Core**  
+After the initial decline retention stabilizes, suggesting the presence of a loyal user base that continues using the product over time.
+
+**Steady Growth in Recurring Revenue**  
+MRR increased by 7.9% month-over-month, showing consistent subscription revenue growth throughout 2025.
+
+**High-Value Acquisition Channels**  
+Users acquired through App Store search (ASO) and referral channels show the highest share of Premium subscriptions (over 63%), indicating stronger monetization potential from these sources.
+
+**Churn Driven by Product Value Perception**  
+Among Premium users the leading churn reason is "Not useful", suggesting that improving the perceived value or visibility of Premium features may help reduce churn.
