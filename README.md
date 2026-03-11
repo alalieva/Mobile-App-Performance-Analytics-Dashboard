@@ -12,7 +12,7 @@ The dashboard was built using Tableau.
 
 ⚠️ The dataset used in this project is synthetic and generated for demonstration purposes.
 
-## Project Goal
+## :dart: Project Goal
 
 The goal of this project is to evaluate product health and monetization performance of a mobile application by analyzing:
 • user growth  
@@ -23,7 +23,7 @@ The goal of this project is to evaluate product health and monetization performa
 
 The analysis focuses on identifying key behavioral patterns that influence long-term product performance.
 
-## Data Model 
+## :open_file_folder: Data Model 
 The dashboard is built using a synthetic dataset that simulates the data architecture of a mobile application analytics system.
 The dataset consists of four core tables representing users, sessions, subscriptions and payments.
 
@@ -75,7 +75,7 @@ erDiagram
  ```
 </details> 
 
-## Dashboard Overview
+## :bar_chart: Dashboard Overview
 
 The dashboard consists of two analytical sections.
 
@@ -115,7 +115,7 @@ This section evaluates monetization performance. These metrics help identify how
 - Analysis of user churn reasons. 
 - Comparison of MRR vs Revenue. 
 
-## Dashboard Interactivity  
+## :paperclip: Dashboard Interactivity  
 The dashboard includes several interactive features that allow exploring the metrics across different time dimensions and user segments.  
 
 ### User Analytics Section  
@@ -149,7 +149,7 @@ The change in pp means percentage points.
 _For Refund Rate%  the delta is interpreted inversely: a negative delta indicates an improvement (fewer refunds)._
 >
 
-## Key Insights
+## :fountain_pen: Key Insights
 
 The insights below represent examples of patterns observed in the dashboard.  
 Since the dashboard is interactive, metrics can be analyzed across different time periods (last 7 days, month, quarter, year) and user segments. 
