@@ -98,8 +98,31 @@ The change in pp means percentage points.
 _For Churned Users the delta is interpreted inversely: a negative delta indicates an improvement (fewer users churned)._
 
 <ins>**Additional analysis:** </ins> 
-- Demographic distribution of users (gender, age, country) by users type
-- Monthly Churn Rate trend for 2025
-- Cohort Retention Heatmap
+- Demographic distribution of users (gender, age, country) by users type.
+- Monthly Churn Rate trend for 2025.
+- Cohort Retention Heatmap.
+
+### Revenue Analytics
+This section evaluates monetization performance. These metrics help identify how effectively the product converts user activity into revenue.
+<img width="1393" height="886" alt="Screenshot 2026-03-09 at 18 22 15" src="https://github.com/user-attachments/assets/a8fe647d-1637-4977-8c12-51bac73d996a" />  
+<ins>**Key KPIs:** </ins>  
+-**ARPU (Average Revenue Per User)** — The average revenue generated per active user per month. This metric reflects the monetization efficiency of the entire user base, including free users._(Values may appear inflated due to synthetic data where 40% of users are paying.)_   
+-**ARPPU (Average Revenue Per Paying User**) — The average revenue generated per paying user per month. Unlike ARPU, this metric excludes free users.  
+-**MRR (Monthly Recurring Revenue)** — Normalized monthly revenue.   
+  > Revenue — Actual cash received in a given month.  
+  Unlike Revenue, MRR converts all subscription types to their monthly equivalent.  
+  Annual subscriptions ($100/$200) are divided by 12 to reflect their monthly contribution.  
+  Revenue in the month of a large annual payment will be higher than MRR; in the following months it will appear lower.
+>      
+-**Refund Rate(%)** — The percentage of refunded transactions out of the total number of payment transactions in a given month.  
+_For Refund Rate%  the delta is interpreted inversely: a negative delta indicates an improvement (fewer refunds)._ 
+
+<ins>**Additional analysis:** </ins>  
+- Revenue distribution by Device OS (iOS / Android).
+- Paid Subscriptions by Billing type. 
+- Revenue by acquisition channel. 
+- Analysis of user churn reasons. 
+- Comparison of MRR vs Revenue. 
+
 
         
