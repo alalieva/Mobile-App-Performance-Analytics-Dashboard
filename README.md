@@ -88,15 +88,6 @@ This section focuses on user growth, engagement and retention.
 - **Paying Users** — Users who had at least one successful payment during the selected period.
 - **Churned Users / Churn Rate** — Users whose paid subscription ended during the selected period. 
 
-<ins>**Previous Period Comparison**</ins>  
-For each KPI metric the value of the previous period is calculated:  
-**Previous Last 7 days**  
-**PM** — Previous Month  
-**PQ**  — Previous Quarter  
-**PY**   — Previous Year  
-The change in pp means percentage points.  
-_For Churned Users the delta is interpreted inversely: a negative delta indicates an improvement (fewer users churned)._
-
 <ins>**Additional analysis:** </ins> 
 - Demographic distribution of users (gender, age, country) by users type.
 - Monthly Churn Rate trend for 2025.
@@ -115,7 +106,6 @@ This section evaluates monetization performance. These metrics help identify how
   Revenue in the month of a large annual payment will be higher than MRR; in the following months it will appear lower.
 >      
 -**Refund Rate(%)** — The percentage of refunded transactions out of the total number of payment transactions in a given month.  
-_For Refund Rate%  the delta is interpreted inversely: a negative delta indicates an improvement (fewer refunds)._ 
 
 <ins>**Additional analysis:** </ins>  
 - Revenue distribution by Device OS (iOS / Android).
@@ -124,5 +114,37 @@ _For Refund Rate%  the delta is interpreted inversely: a negative delta indicate
 - Analysis of user churn reasons. 
 - Comparison of MRR vs Revenue. 
 
+## Dashboard Interactivity  
+The dashboard includes several interactive features that allow exploring the metrics across different time dimensions and user segments.  
 
+### User Analytics Section  
+The KPI cards support dynamic time selection and can be viewed for the following periods:
+- Last 7 days  
+- Month  
+- Quarter  
+- Year  
+
+Demographic distributions **(gender, age, country)** can be filtered by **user type (active, new, paying, churned users)**.
+
+### Revenue Analytics Section  
+Revenue KPIs are displayed as **static metrics for the latest complete month (December 2025)**, representing the most recent snapshot of business performance.  
+Additional charts allow monthly analysis throughout **2025**, including:  
+- Revenue distribution by **Device OS** (iOS / Android)  
+- Paid subscriptions by **Billing type** 
+- Revenue by **Acquisition channel** 
+- Analysis of user **Churn reasons**
+
+### Time Coverage
+The underlying dataset contains data for 2024–2025, while the dashboard focuses on 2025 as the primary analysis period.  
+Data from 2024 is used as a reference period to calculate comparisons with previous periods (e.g., previous month, quarter or year).
+
+### Previous Period Comparison for KPI metric
+**Previous Last 7 days**  
+**PM** — Previous Month  
+**PQ**  — Previous Quarter  
+**PY**   — Previous Year  
+The change in pp means percentage points.  
+>_For Churned Users the delta is interpreted inversely: a negative delta indicates an improvement (fewer users churned)._  
+_For Refund Rate%  the delta is interpreted inversely: a negative delta indicates an improvement (fewer refunds)._
+>
         
