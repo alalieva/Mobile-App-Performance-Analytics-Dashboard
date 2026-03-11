@@ -78,29 +78,28 @@ erDiagram
 
 The dashboard consists of two analytical sections.
 
-###  User Analytics
-<img width="1391" height="880" alt="Screenshot 2026-03-09 at 18 21 43" src="https://github.com/user-attachments/assets/594c3b1c-385d-454b-ae9f-42510d4ec8ec" />
- 
+###  User Analytics  
 This section focuses on user growth, engagement and retention.  
-<ins>Key KPIs:</ins> 
-- Active Users — Unique users who had at least one session during the selected period.
-- New Users — Users who registered during the selected period.
-- Paying Users — Users who had at least one successful payment during the selected period.
-- Churned Users / Churn Rate — Users whose paid subscription ended during the selected period. 
+<img width="1391" height="880" alt="Screenshot 2026-03-09 at 18 21 43" src="https://github.com/user-attachments/assets/594c3b1c-385d-454b-ae9f-42510d4ec8ec" />
+This section focuses on user growth, engagement and retention.  
+<ins>**Key KPIs:** </ins> 
+- **Active Users** — Unique users who had at least one session during the selected period.
+- **New Users** — Users who registered during the selected period.
+- **Paying Users** — Users who had at least one successful payment during the selected period.
+- **Churned Users / Churn Rate** — Users whose paid subscription ended during the selected period. 
 
-<ins>Previous Period Comparison</ins>  
+<ins>**Previous Period Comparison**</ins>  
 For each KPI metric the value of the previous period is calculated:  
-Previous Last 7 days  
-PM — Previous Month  
-PQ  — Previous Quarter  
-PY   — Previous Year  
+**Previous Last 7 days**  
+**PM** — Previous Month  
+**PQ**  — Previous Quarter  
+**PY**   — Previous Year  
 The change in pp means percentage points.  
 _For Churned Users the delta is interpreted inversely: a negative delta indicates an improvement (fewer users churned)._
 
-Additional analysis:
-- demographic distribution of users (gender, age, country) by users type
-- monthly churn rate trend for 2025
-- cohort retention heatmap
+<ins>**Additional analysis:** </ins> 
+- Demographic distribution of users (gender, age, country) by users type
+- Monthly Churn Rate trend for 2025
+- Cohort Retention Heatmap
 
-These metrics help understand how users interact with the product and how engagement evolves over time.
         
