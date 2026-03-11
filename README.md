@@ -7,7 +7,8 @@ This project analyzes user behavior, retention, churn and revenue performance of
 
 The analysis combines product analytics metrics, cohort retention analysis and revenue insights to understand how user engagement impacts business performance.
 
-The dashboard was built using Tableau.
+The dashboard was built using Tableau. 
+[You can explore the interactive Tableau dashboard here](https://public.tableau.com/app/profile/alesia.alieva/viz/MobileAppPerformance/Users).
 
 ⚠️ The dataset used in this project is synthetic and generated for demonstration purposes.
 
