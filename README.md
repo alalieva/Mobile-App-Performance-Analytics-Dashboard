@@ -14,7 +14,7 @@ The dashboard was built using Tableau.
 
 ## :dart: Project Goal
 
-The goal of this project is to evaluate product health and monetization performance of a mobile application by analyzing:
+The goal of this project is to evaluate product health and monetization performance of a mobile application by analyzing:  
 • user growth  
 • user engagement  
 • retention dynamics  
@@ -81,8 +81,7 @@ The dashboard consists of two analytical sections.
 
 ###  User Analytics  
 This section focuses on user growth, engagement and retention.  
-<img width="1391" height="880" alt="Screenshot 2026-03-09 at 18 21 43" src="https://github.com/user-attachments/assets/594c3b1c-385d-454b-ae9f-42510d4ec8ec" />
-This section focuses on user growth, engagement and retention.  
+<img width="1391" height="880" alt="Screenshot 2026-03-09 at 18 21 43" src="https://github.com/user-attachments/assets/594c3b1c-385d-454b-ae9f-42510d4ec8ec" />  
 <ins>**Key KPIs:** </ins> 
 - **Active Users** — Unique users who had at least one session during the selected period.
 - **New Users** — Users who registered during the selected period.
@@ -102,7 +101,7 @@ This section evaluates monetization performance. These metrics help identify how
 -**ARPPU (Average Revenue Per Paying User**) — The average revenue generated per paying user per month. Unlike ARPU, this metric excludes free users.  
 -**MRR (Monthly Recurring Revenue)** — Normalized monthly revenue.   
   > Revenue — Actual cash received in a given month.  
-  Unlike Revenue, MRR converts all subscription types to their monthly equivalent.  
+  Unlike Revenue MRR converts all subscription types to their monthly equivalent.  
   Annual subscriptions ($100/$200) are divided by 12 to reflect their monthly contribution.  
   Revenue in the month of a large annual payment will be higher than MRR; in the following months it will appear lower.
 >      
