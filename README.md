@@ -85,8 +85,13 @@ This section focuses on user growth, engagement and retention.
 <ins>**Key KPIs:** </ins> 
 - **Active Users** — Unique users who had at least one session during the selected period.
 - **New Users** — Users who registered during the selected period.
+- **Churned Users / Churn Rate** — Users whose paid subscription ended during the selected period.
+  >7D — number of users whose paid subscription ended in the last 7 days.  
+   MTD / QTD / YTD — avg monthly churn rate: churned ÷ active paid at month start.  
+   Weekly churn % is excluded as it is not comparable to the monthly industry standard.  
+  >  
 - **Paying Users** — Users who had at least one successful payment during the selected period.
-- **Churned Users / Churn Rate** — Users whose paid subscription ended during the selected period. 
+
 
 <ins>**Additional analysis:** </ins> 
 - Demographic distribution of users (gender, age, country) by users type.
