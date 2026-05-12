@@ -1,7 +1,7 @@
 # Mobile App Performance - Analytics Dashboard
-Page1
-<img width="493" height="280" alt="Screenshot 2026-03-09 at 18 21 43" src="https://github.com/user-attachments/assets/6c72d16a-8640-4808-815c-1b91eee19ce7" />
-Page2
+Page1  
+<img width="493" height="280" alt="Screenshot 2026-03-09 at 18 21 43" src="https://github.com/user-attachments/assets/6c72d16a-8640-4808-815c-1b91eee19ce7" />  
+Page2  
 <img width="491" height="280" alt="Screenshot 2026-03-09 at 18 22 15" src="https://github.com/user-attachments/assets/ce3d52e6-6104-436c-9991-f91e9029866c" />
 
 This project analyzes user behavior, retention, churn and revenue performance of a mobile application during 2025.
