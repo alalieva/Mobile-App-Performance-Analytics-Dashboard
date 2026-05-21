@@ -1,8 +1,8 @@
 # Mobile App Performance - Analytics Dashboard
 Page1  
-<img width="493" height="280" alt="Screenshot 2026-03-09 at 18 21 43" src="https://github.com/user-attachments/assets/6c72d16a-8640-4808-815c-1b91eee19ce7" />  
+<img width="491" height="280" alt="Screenshot 2026-05-21 at 10 54 43" src="https://github.com/user-attachments/assets/cfbfeb63-ce67-43d0-bebd-e9e22f60b2c1" />   
 Page2  
-<img width="491" height="280" alt="Screenshot 2026-03-09 at 18 22 15" src="https://github.com/user-attachments/assets/ce3d52e6-6104-436c-9991-f91e9029866c" />
+<img width="493" height="280" alt="Screenshot 2026-05-21 at 10 55 32" src="https://github.com/user-attachments/assets/99857088-7aa8-4933-8cbc-bea77935a7b3" />   
 
 This project analyzes user behavior, retention, churn and revenue performance of a mobile application during 2025.
 
@@ -82,7 +82,7 @@ The dashboard consists of two analytical sections.
 
 ###  User Analytics  
 This section focuses on user growth, engagement and retention.  
-<img width="1391" height="880" alt="Screenshot 2026-03-09 at 18 21 43" src="https://github.com/user-attachments/assets/594c3b1c-385d-454b-ae9f-42510d4ec8ec" />  
+<img width="1391" height="880" alt="Screenshot 2026-05-21 at 10 54 43" src="https://github.com/user-attachments/assets/cfbfeb63-ce67-43d0-bebd-e9e22f60b2c1" />    
 <ins>**Key KPIs:** </ins> 
 - **Active Users** — Unique users who had at least one session during the selected period.
 - **New Users** — Users who registered during the selected period.
@@ -101,7 +101,7 @@ This section focuses on user growth, engagement and retention.
 
 ### Revenue Analytics
 This section evaluates monetization performance. These metrics help identify how effectively the product converts user activity into revenue.
-<img width="1393" height="886" alt="Screenshot 2026-03-09 at 18 22 15" src="https://github.com/user-attachments/assets/a8fe647d-1637-4977-8c12-51bac73d996a" />  
+<img width="1393" height="886" alt="Screenshot 2026-05-21 at 10 55 32" src="https://github.com/user-attachments/assets/99857088-7aa8-4933-8cbc-bea77935a7b3" />   
 <ins>**Key KPIs:** </ins>  
 -**ARPU (Average Revenue Per User)** — The average revenue generated per active user per month. This metric reflects the monetization efficiency of the entire user base, including free users._(Values may appear inflated due to synthetic data where 40% of users are paying.)_   
 -**ARPPU (Average Revenue Per Paying User**) — The average revenue generated per paying user per month. Unlike ARPU, this metric excludes free users.  
